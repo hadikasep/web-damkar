@@ -44,8 +44,8 @@ website yang saya buat ini merupakan sebuah data informasi pelayanan dinas pemad
     
 Clone Repositori:
 
-    -git clone https://github.com/hadikasep/damkar-garut
-    -cd damkar-garut
+    git clone https://github.com/hadikasep/damkar-garut
+    cd damkar-garut
 
 ## Website Dibuat Oleh Mohammad Nurhadi
 
