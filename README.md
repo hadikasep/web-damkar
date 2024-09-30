@@ -40,8 +40,7 @@ website yang saya buat ini merupakan sebuah data informasi pelayanan dinas pemad
    - Database phpMyAdmin
    - Web Browser: Chrome, atau Firefox
   
-   ##Instalasi
-    
+   ## Instalasi    
 Clone Repositori:
 
     git clone https://github.com/hadikasep/damkar-garut
