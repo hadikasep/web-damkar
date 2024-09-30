@@ -25,7 +25,7 @@ website yang saya buat ini merupakan sebuah data informasi pelayanan dinas pemad
 ![Screenshot (38)](https://github.com/user-attachments/assets/9fe52824-169e-4fa8-bd6e-50ffc648326e)
 
 ## UML
- 
+ ![Screenshot (39)](https://github.com/user-attachments/assets/144f4e4e-aafe-49d3-ab64-bdf803ce704e)
 
 ## Teknologi Yang Digunakan 
    -Laravel 10
