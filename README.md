@@ -19,8 +19,8 @@ website yang saya buat ini merupakan sebuah data informasi pelayanan dinas pemad
          - Mengedit Data Informasi
          - Menghapus Data Informasi
   
-         ## User
-           - Melihat Semua Data Informasi
+  ## User
+   - Melihat Semua Data Informasi
        - Login
        - Logout
   
@@ -35,15 +35,16 @@ website yang saya buat ini merupakan sebuah data informasi pelayanan dinas pemad
    -Sb admin 2
    -SMTP (protokol komunikasi yang digunakan untuk mengirim dan menerima pesan email melalui internet.)
 
-### Persyaratan Untuk Melakukan Instalasi
-   -PHP 8.1.0 & Web Server (Apache)
+## persyaratan Untuk Melakukan Instalasi
+   -PHP 8.2.12 & Web Server (Apache)
    - Database phpMyAdmin
    - Web Browser: Chrome, atau Firefox
-
-## Instalasi
- 1. Clone Repositori:
-   git clone https://github.com/hadikasep/damkar-garut
-    cd damkar-garut
+  
+   
+    ##Instalasi
+    - Clone Repositori:
+    -git clone https://github.com/hadikasep/damkar-garut
+    -cd damkar-garut
 
 ## Website Dibuat Oleh Mohammad Nurhadi
 
