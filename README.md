@@ -20,6 +20,12 @@ website yang saya buat ini merupakan sebuah data informasi pelayanan dinas pemad
            - Melihat Semua Data Informasi
   ## - Login
   ## - Logout
+  
+## ERD
+![Screenshot (38)](https://github.com/user-attachments/assets/9fe52824-169e-4fa8-bd6e-50ffc648326e)
+
+## UML
+ 
 
 ## Teknologi Yang Digunakan 
    -Laravel 10
