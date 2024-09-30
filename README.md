@@ -45,6 +45,10 @@ Clone Repositori:
 
     git clone https://github.com/hadikasep/damkar-garut
     cd damkar-garut
+## Cara Masuk Ke Halaman Web
+  - Harus melakukan register akun dengan email aktif dan membuat password sendiri
+  - Buka Verifikasi Di Email Untuk Mengaktifkan Akun Yang Sudah Melakukan Register
+  - Atur Role User/Admin Di Table users Di php my admin
 
 ## Website Dibuat Oleh Mohammad Nurhadi
 
