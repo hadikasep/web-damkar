@@ -12,12 +12,14 @@ website yang saya buat ini merupakan sebuah data informasi pelayanan dinas pemad
 - Authentication
     -Login
   -Multi User
+  
      ##- Admin
          - Melihat Semua Data Informasi Pelayanan
          - Menambah Data Informasi
          - Mengedit Data Informasi
          - Menghapus Data Informasi
-         #- User
+  
+         ## User
            - Melihat Semua Data Informasi
        - Login
        - Logout
